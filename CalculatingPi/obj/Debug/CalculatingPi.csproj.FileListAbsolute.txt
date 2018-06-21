@@ -71,3 +71,11 @@ C:\Users\simona.tsenova\source\Workspaces\CalculatingPiParallel\CalculatingPi\ob
 C:\Users\simona.tsenova\source\Workspaces\CalculatingPiParallel\CalculatingPi\obj\Debug\CalculatingPi.csproj.CopyComplete
 C:\Users\simona.tsenova\source\Workspaces\CalculatingPiParallel\CalculatingPi\obj\Debug\CalculatingPi.exe
 C:\Users\simona.tsenova\source\Workspaces\CalculatingPiParallel\CalculatingPi\obj\Debug\CalculatingPi.pdb
+D:\SoftwareEngineering\RSA\working\CalculatingPiParallel\CalculatingPi\bin\Debug\CalculatingPi.exe.config
+D:\SoftwareEngineering\RSA\working\CalculatingPiParallel\CalculatingPi\bin\Debug\CalculatingPi.exe
+D:\SoftwareEngineering\RSA\working\CalculatingPiParallel\CalculatingPi\bin\Debug\CalculatingPi.pdb
+D:\SoftwareEngineering\RSA\working\CalculatingPiParallel\CalculatingPi\bin\Debug\Deveel.Math.dll
+D:\SoftwareEngineering\RSA\working\CalculatingPiParallel\CalculatingPi\obj\Debug\CalculatingPi.csprojResolveAssemblyReference.cache
+D:\SoftwareEngineering\RSA\working\CalculatingPiParallel\CalculatingPi\obj\Debug\CalculatingPi.csproj.CoreCompileInputs.cache
+D:\SoftwareEngineering\RSA\working\CalculatingPiParallel\CalculatingPi\obj\Debug\CalculatingPi.exe
+D:\SoftwareEngineering\RSA\working\CalculatingPiParallel\CalculatingPi\obj\Debug\CalculatingPi.pdb
